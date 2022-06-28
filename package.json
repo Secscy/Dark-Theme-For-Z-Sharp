@@ -1,8 +1,8 @@
 {
-    "name": "dark-theme-for-z-",
+    "name": "DarkThemeForZ",
     "displayName": "Dark Theme for Z#",
     "description": "dark theme for vscode with z# programming in mind. That's a lie.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher":"LexasTech",
     "repository": {
         "type": "git",
