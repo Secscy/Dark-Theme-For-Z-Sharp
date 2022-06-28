@@ -1,0 +1,21 @@
+{
+    "name": "dark-theme-for-z-",
+    "displayName": "Dark Theme for Z#",
+    "description": "dark theme for vscode with z# programming in mind. That's a lie.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Theme for Z#",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Theme for Z#-color-theme.json"
+            }
+        ]
+    }
+}
