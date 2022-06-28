@@ -1,9 +1,8 @@
-# Change Log
+# Changelog
 
-All notable changes to the "dark-theme-for-z-" extension will be documented in this file.
+## v1.0.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Added or Changed
+- Added this changelog :)
 
-## [Unreleased]
-
-- Initial release
+### Removed
