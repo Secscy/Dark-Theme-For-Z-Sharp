@@ -3,6 +3,18 @@
     "displayName": "Dark Theme for Z#",
     "description": "dark theme for vscode with z# programming in mind. That's a lie.",
     "version": "0.0.1",
+    "publisher":"LexasTech",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Secscy/Dark-Theme-For-Z-Sharp"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "Z#",
+        "Lexas",
+        "best dark theme"
+    ],
     "engines": {
         "vscode": "^1.68.0"
     },
